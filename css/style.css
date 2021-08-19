@@ -15,7 +15,10 @@ a {
     color:#333;
     text-decoration: none;
 }
-h1,
+h1{
+    padding-bottom: 20px;
+    font: 'Rollete Qaku Regular';
+}
 h2,
 h3 {
     padding-bottom: 20px;
@@ -67,9 +70,6 @@ p {
     }
 #hero {
     background: url(../image/mls.jpg) no-repeat center/cover;
-    height: 600px;
-#name {
-    image: url(../image/mls_1.jpg) no-repeat center/cover;
     height: 600px;
 }
 #hero .hero-content {
