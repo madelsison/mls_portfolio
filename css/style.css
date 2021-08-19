@@ -67,7 +67,7 @@ p {
     padding: 0 20px;
     }
 #hero {
-    background: url(../image/mls.jpg) no-repeat center/cover;
+    background: url(../image/hero_image.jpg) no-repeat center/cover;
     height: 600px;
 }
 #hero .hero-content {
