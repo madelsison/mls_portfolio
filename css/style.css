@@ -92,8 +92,8 @@ p {
 .btn {
     display: inline-block;
     font-size: 18px;
-    color: #fff;
-    background: #334756;
+    color: #334756;
+    background: #fff;
     padding: 13px 20px;
     border: none;
     cursor: pointer;
